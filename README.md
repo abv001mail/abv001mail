@@ -11,13 +11,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 
 ## Мои репозитории  
 
-
 | Репозиторий | Описание |
 | :---------------------- | :---------------------- |
 | [yandex](yandex) | Учебные проекты курса "Специалист по Data Science" на Яндекс Практикуме.  |
 | [pet-projects](Pet-projects) | Собственные проекты. |
-
-<!---
-abv001mail/abv001mail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
