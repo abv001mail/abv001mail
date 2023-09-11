@@ -13,5 +13,5 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 
 | Репозиторий | Описание |
 | :---------------------- | :---------------------- |
-| [yandex](yandex) | Учебные проекты курса "Специалист по Data Science" на Яндекс Практикуме.  |
+| [yandex](https://github.com/abv001mail/yandex) | Учебные проекты курса "Специалист по Data Science" на Яндекс Практикуме.  |
 | [pet-projects](Pet-projects) | Собственные проекты. |
